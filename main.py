@@ -1,1 +1,0 @@
-print("hey there starting with the bootcamp ")
